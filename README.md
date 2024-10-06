@@ -11,7 +11,7 @@ With the rising threat of deepfake attacks, accurate solutions are crucial for b
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/Sarkarsubham2002/DeepFake-detection-Using-Wav2Vec2.git
+git clone https://github.com/AnshulGupta2004/Audio-Deepface-Detection.git
 cd DeepFake-detection-Using-Wav2Vec2
 pip install -r requirements.txt
 ```
